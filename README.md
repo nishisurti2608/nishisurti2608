@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishi
 - 👀 I’m interested in UI/UX Design & Java Script
 - 🌱 I’m currently learning React
-- 📫 Reach me here : 01nishisurti@gmail.com
+- 📫 Contact me here : 01nishisurti@gmail.com
 
 <!---
 nishisurti2608/nishisurti2608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
