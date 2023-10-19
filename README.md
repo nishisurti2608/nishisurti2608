@@ -7,7 +7,7 @@
   
 - 🦸🏾‍♀️ I'm full time coding ninja 
 
-- 👾 I'm focusing on React and Javascript **React**
+- 👾 I'm focusing on React and Javascript
 
 - 🕵🏾‍♀️ I’m have done freelancing work for [Chamber Stream](https://chamberstream.ca/)
 
