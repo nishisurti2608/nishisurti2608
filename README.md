@@ -6,15 +6,15 @@ I’m [**Nishi**](https://nishisurti.netlify.app/), a frontend design engineer b
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code and Figma, you’ll find me hitting the gym or capturing some memories. I also enjoy writing [blog posts](https://nishi-can-code.hashnode.dev/) and sharing tech-related content on Youtube(https://www.youtube.com/@surtinishi)
+Outside of code and Figma, you’ll find me hitting the gym or capturing some memories. I also enjoy writing [blog posts](https://nishi-can-code.hashnode.dev/) and sharing tech-related content on [Youtube](https://www.youtube.com/@surtinishi)
 
 #### Fun Facts:
 
-* I am a developer who knows how to center a div.
-* I like to kill bugs online.
+* I am a developer who knows how to center a div 😎.
+* I like to kill bugs online 🐞.
 
  - 💬 Ask me about **React** **JavaScript**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishisurti2608&show_icons=true&locale=en&layout=compact" alt="nishisurti2608" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nishisurti2608&show_icons=true&locale=en&layout=compact" alt="nishisurti2608" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishisurti2608&" alt="nishisurti2608" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishisurti2608&" alt="nishisurti2608" />
