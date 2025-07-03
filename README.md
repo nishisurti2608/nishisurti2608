@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+
 <h1 align="center">Namaste 🙏🏾, I'm Nishi Surti</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳 and right now coding in Canada 🇨🇦</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
