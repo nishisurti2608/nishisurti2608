@@ -8,12 +8,19 @@ I love turning design ideas into lightning-fast, accessible interfaces that feel
 
 Outside of code and Figma, you’ll find me hitting the gym or capturing some memories. I also enjoy writing [blog posts](https://nishi-can-code.hashnode.dev/) and sharing tech-related content on [Youtube](https://www.youtube.com/@surtinishi)
 
+<br/>
+<br/>
 
 > [!IMPORTANT]
 > I am a developer who knows how to center a div 😎 and I love to kill bugs online 🐞.
 
+<br/>
+<br/>
+
 > [!TIP]
 > I help people to code so don't hesitate to ask for help! connect with me :
+
+<br/>
 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
