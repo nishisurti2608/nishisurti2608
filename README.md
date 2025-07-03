@@ -13,9 +13,19 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 * I am a developer who knows how to center a div 😎.
 * I like to kill bugs online 🐞.
 
-#### Ask me about **React** **JavaScript** on : 
+> [!TIP]
+> Optional information to help a user be more successful.
 
-[![Discord](https://img.shields.io/badge/discord-nishisurti-5865F2?logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishi.surti1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishisurti/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/01nishisurti)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@surtinishi)
+
+
+
+
 
 
 
