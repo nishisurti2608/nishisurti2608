@@ -13,7 +13,9 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 * I am a developer who knows how to center a div 😎.
 * I like to kill bugs online 🐞.
 
- - 💬 Ask me about **React** **JavaScript**
+#### Ask me about **React** **JavaScript** on : 
+
+[![Discord](https://img.shields.io/badge/discord-alfred-5865F2?logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nishisurti2608&show_icons=true&locale=en&layout=compact" alt="nishisurti2608" />
 
