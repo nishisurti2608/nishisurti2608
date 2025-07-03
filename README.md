@@ -17,6 +17,6 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 
 [![Discord](https://img.shields.io/badge/discord-nishisurti-5865F2?logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nishisurti2608&show_icons=true&locale=en&layout=compact" alt="nishisurti2608" />
+
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishisurti2608&" alt="nishisurti2608" />
