@@ -15,7 +15,7 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 
 #### Ask me about **React** **JavaScript** on : 
 
-[![Discord](https://img.shields.io/badge/discord-alfred-5865F2?logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
+[![Discord](https://img.shields.io/badge/discord-nishi-5865F2?logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nishisurti2608&show_icons=true&locale=en&layout=compact" alt="nishisurti2608" />
 
