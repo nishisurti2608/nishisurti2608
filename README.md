@@ -14,7 +14,7 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 * I like to kill bugs online 🐞.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> I help people to code so don't hesitate to ask for help! connect with me :
 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nishisurti)
@@ -22,11 +22,6 @@ Outside of code and Figma, you’ll find me hitting the gym or capturing some me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishisurti/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/01nishisurti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@surtinishi)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nishi-can-code.hashnode.dev/)
 
 
-
-
-
-
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishisurti2608&" alt="nishisurti2608" />
