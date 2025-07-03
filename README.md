@@ -1,7 +1,7 @@
 
 <h1 align="center">Namaste 🙏🏾, I'm Nishi Surti</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳 and right now coding in Canada 🇨🇦</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
+
 
 - 👩🏽‍💻 I’m currently working on [Think Future](https://thinkfuture.ca/)
   
