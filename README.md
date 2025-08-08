@@ -1,7 +1,7 @@
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Nishi**](https://nishisurti.netlify.app/), a frontend design engineer based in Canada 🇨🇦.
+I’m [**Nishi**](https://nishicodes.ca/), a frontend design engineer based in Canada 🇨🇦.
 
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
